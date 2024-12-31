@@ -1,0 +1,4 @@
+What is devops
+
+devops is a interaction with a developement and operation team
+
